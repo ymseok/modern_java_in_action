@@ -1,6 +1,6 @@
 # 모던 자바 인 액션 ( Modern Java In Action ) 관련 샘플 코드
 
-해당 소스는 아래 도서에 수록된 내용 및 내용을 확인하기 위해 작성된 코드입니다.
+해당 소스는 아래 도서에 수록된 내용을 바탕으로 작성된 코드입니다.
 
 <img src="https://user-images.githubusercontent.com/1405482/119990310-2568eb80-c003-11eb-99bb-e9809416ae14.jpeg" width="250"  />
 
