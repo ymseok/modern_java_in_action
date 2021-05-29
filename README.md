@@ -10,7 +10,7 @@
 
 ## 코드 구성
 
-동일한 기능을 하는 Class를 package 를 io.example.traditional 과 io.example.modern 으로 구분하여 구성하였습니다.
+동일한 기능을 하는 클래스(Class)를 io.example.traditional 과 io.example.modern 으로 구분된 패키지(package)로 구성하였습니다.
 사용시에는 [Factory 패턴](https://www.baeldung.com/creational-design-patterns)을 바탕으로 Instance를 생성해서 사용하면 됩니다.
 
 테스트 코드를 통해서 동작이 다르지 않음을 증명하고 있고, [Junit5](https://junit.org/junit5/docs/current/user-guide/) 기준으로 작성되어 있습니다.
